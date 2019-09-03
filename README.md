@@ -2,27 +2,27 @@
 
 CLONE THE REPO
 
-Enter into the zigwaytest directory
+Enter into the zigwaytest directory <br/>
 
-Open terminal and type command
+Open terminal and type command <br/>
 
-~/zigwaytest$ pipenv shell
-~/zigwaytest$ pip install django
-~/zigwaytest$ pip install djangorestframework
-~/zigwaytest$ pip install django-cors-headers
-~/zigwaytest$ pip install djangorestframework-simplejwt
+~/zigwaytest$ pipenv shell <br/>
+~/zigwaytest$ pip install django <br/>
+~/zigwaytest$ pip install djangorestframework <br/>
+~/zigwaytest$ pip install django-cors-headers <br/>
+~/zigwaytest$ pip install djangorestframework-simplejwt<br/>
 
-Open frontend folder and type command
+Open frontend folder and type command <br/>
 
-~/zigwaytest$ cd frontend/
-~/zigwaytest/frontend$ npm install
-~/zigwaytest/frontend$ npm run build
-~/zigwaytest/frontend$ cd ..
-~/zigwaytest$
+~/zigwaytest$ cd frontend/ <br/>
+~/zigwaytest/frontend$ npm install <br/>
+~/zigwaytest/frontend$ npm run build <br/>
+~/zigwaytest/frontend$ cd .. <br/>
+~/zigwaytest$ <br/>
 
 TO RUN THE PROJECT
 
-~/zigwaytest$python manage.py runserver
+~/zigwaytest$python manage.py runserver <br/>
 
 Watching for file changes with StatReloader
 Performing system checks...
